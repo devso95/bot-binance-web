@@ -1,0 +1,13 @@
+<nav role="navigation" class="navbar navbar-default">
+	<div class="">
+		<a href="https://www.facebook.com/DevilSoulKeeper/" class="navbar-brand">Deso</a>
+	</div>
+	<div class="navbar-collapse">
+		<ul class="nav navbar-nav">
+			<li class="active"><a href="/">Home</a></li>
+			<li><a href="/strategy">Strategies</a></li>
+			<li><a href="/information">Trade Information</a></li>
+			<li><a href="/logout">Logout</a></li>
+		</ul>
+	</div>
+</nav>
